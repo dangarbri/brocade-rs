@@ -1,7 +1,14 @@
 [package]
 name = "brocade"
+description = "Interface for querying brocade.io products"
+homepage = "https://github.com/dangarbri/brocade-rs"
+documentation = "https://github.com/dangarbri/brocade-rs"
+repository = "https://github.com/dangarbri/brocade-rs"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+readme = "README.md"
+keywords = ["brocade", "barcode"]
 
 [profile.release]
 opt-level = 3
